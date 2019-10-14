@@ -1,0 +1,2 @@
+# python_git_auto_config
+git多账户配置，git克隆自动切换本地git账号信息python脚本
